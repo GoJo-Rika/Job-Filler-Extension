@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "My Personal Job Autofiller",
+  "version": "1.0",
+  "description": "Local autofiller for job applications.",
+  "permissions": ["activeTab", "scripting"],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
